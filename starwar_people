@@ -1,0 +1,3 @@
+import requests
+baseurl=https://swapi.co/api/
+result=requests.get('')
